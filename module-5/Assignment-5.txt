@@ -1,0 +1,40 @@
+Metaverse Social Networking Integration
+
+Objective: Integrate social networking features into a virtual world.
+
+Instructions:
+
+Background:
+Social interaction and networking are integral parts of the metaverse experience. In this assignment, students will focus on enhancing user engagement by integrating social networking features within their chosen metaverse platform. These features will allow users to connect with others, share experiences, and build a sense of community.
+
+Task:
+
+Feature Selection:
+
+Instruct students to select and implement key social networking features within their metaverse platform. These features should mimic aspects of social media platforms.
+Common features to consider include user profiles, friend requests, user-to-user messaging, activity feeds, and the ability to share metaverse experiences on external social media.
+Social Media Integration:
+
+Challenge students to explore the use of APIs or SDKs provided by popular social media platforms (e.g., Facebook, Twitter, or LinkedIn) to enable users to share their metaverse experiences directly to their social media profiles.
+Instruct students to document the integration process and provide instructions for users to connect their social media accounts.
+Privacy and Data Security:
+
+Emphasize the importance of user data privacy and security within the metaverse environment.
+Encourage students to design and implement privacy settings that allow users to control the visibility of their profiles and shared content.
+User Experience and Engagement:
+
+Challenge students to consider user experience and engagement when implementing social networking features.
+Ask them to think about how these features can foster connections and enhance the overall metaverse experience.
+Documentation:
+
+Require students to provide clear documentation of their social networking feature implementation, including technical details, APIs used, and data privacy considerations.
+Include screenshots or videos to showcase the social networking features in action.
+Evaluation Criteria:
+The Metaverse Social Networking Integration assignment will be evaluated based on the following criteria:
+
+Feature Selection: The appropriateness and relevance of the selected social networking features.
+Integration: The quality of the integration of social networking features within the metaverse platform.
+Social Media Integration: The successful integration of external social media sharing capabilities.
+Privacy and Data Security: The effectiveness of privacy settings and data security measures.
+User Experience: The thoughtful consideration of user experience and engagement.
+Documentation: The completeness and clarity of the documentation provided.

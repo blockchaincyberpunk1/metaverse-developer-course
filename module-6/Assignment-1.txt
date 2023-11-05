@@ -1,0 +1,45 @@
+Immersive Environment Design
+
+Objective: Design and build an immersive virtual environment.
+
+Instructions:
+
+Background:
+Immersive virtual environments are at the core of the metaverse experience. In this assignment, students will focus on designing and creating a visually stunning and engaging 3D virtual environment using their chosen development platform (e.g., Unity or Unreal Engine). The goal is to create an environment that tells a story, captivates users, and offers interactive elements that enhance immersion.
+
+Task:
+
+Design Concept:
+
+Instruct students to start by developing a concept for their immersive virtual environment. The concept should include a narrative or theme that guides the design.
+Encourage them to think creatively and consider how the environment can convey a story or message to users.
+Development Platform:
+
+Allow students to choose their preferred development platform (e.g., Unity or Unreal Engine) for creating the immersive environment.
+Provide resources or tutorials to help them get started with the chosen platform if needed.
+Environment Creation:
+
+Task students with building the 3D virtual environment according to their concept. This includes modeling, texturing, lighting, and sound design.
+Encourage them to pay attention to details and create an environment that feels visually appealing and immersive.
+Narrative Integration:
+
+Instruct students to incorporate storytelling elements within the environment. This could include visual cues, written narratives, or audio elements that help convey the intended story or theme.
+Interactive Elements:
+
+Challenge students to add interactive elements within the environment. These could be objects that users can interact with, puzzles to solve, or hidden secrets to discover.
+Ensure that these interactive elements contribute to the overall immersion and storytelling.
+User Experience (UX):
+
+Emphasize the importance of user experience (UX) design. Encourage students to consider how users will navigate and interact with the environment to maintain a comfortable and engaging experience.
+Documentation:
+
+Require students to provide comprehensive documentation of their immersive environment, including design choices, asset sources, and development challenges overcome.
+Evaluation Criteria:
+The Immersive Environment Design assignment will be evaluated based on the following criteria:
+
+Design Concept: The creativity and clarity of the environment's concept and narrative.
+Environment Quality: The visual and auditory quality of the 3D environment.
+Narrative Integration: The effectiveness of storytelling elements.
+Interactive Elements: The engagement and interactivity provided by the environment.
+User Experience: The thoughtful consideration of user comfort and navigation.
+Documentation: The completeness and clarity of the provided documentation.

@@ -1,0 +1,53 @@
+Virtual Currency System
+
+Objective: Design and implement a virtual currency system for a metaverse environment.
+
+Instructions:
+
+Background:
+Virtual currencies are integral to many metaverse environments as they enable users to participate in the economy, purchase virtual goods, and engage in various activities. In this assignment, students will create a virtual currency system for their metaverse project, allowing users to earn and spend virtual currency within the virtual world.
+
+Task:
+
+Platform and Environment Selection:
+
+Instruct students to choose their preferred development platform (e.g., Unity, Unreal Engine) for creating a virtual world.
+Encourage them to consider the theme and purpose of the virtual environment.
+Virtual Currency Definition:
+
+Challenge students to define the virtual currency for their metaverse project.
+Specify whether the currency will have a unique name, symbol, or any specific characteristics.
+Earning Mechanisms:
+
+Task students with designing and implementing mechanisms for users to earn virtual currency.
+Encourage creativity in defining activities or tasks within the metaverse that yield currency rewards (e.g., completing quests, participating in events, or user-generated content).
+Currency Management:
+
+Instruct students to create a user-friendly interface for managing virtual currency.
+Include features such as checking account balances, transaction history, and currency transfer capabilities.
+Spending Opportunities:
+
+Challenge students to implement various spending opportunities within the virtual environment.
+These can include virtual goods, customization options, access to premium areas, or services.
+Balancing the Economy:
+
+Encourage students to think about the balance between virtual currency rewards and in-game activities.
+Ensure that the currency system is not overly generous or overly restrictive, providing a satisfying user experience.
+User Testing:
+
+Require students to conduct user testing to gather feedback on the virtual currency system's usability and fairness.
+Encourage them to make adjustments based on user feedback.
+Documentation:
+
+Ask students to document the design and implementation of their virtual currency system.
+Include explanations of earning mechanisms, currency management, spending opportunities, and the balance of the in-game economy.
+Evaluation Criteria:
+The Virtual Currency System assignment will be evaluated based on the following criteria:
+
+Currency Definition: The clarity and uniqueness of the virtual currency.
+Earning Mechanisms: The creativity and effectiveness of mechanisms for earning virtual currency.
+Currency Management: The user-friendliness of the currency management interface.
+Spending Opportunities: The diversity and appeal of spending options.
+Economy Balance: The fairness and balance of the virtual currency system.
+User Testing: The incorporation of user feedback for improvements.
+Documentation: The completeness and clarity of the provided documentation.

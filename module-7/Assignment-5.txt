@@ -1,0 +1,48 @@
+Virtual Economy Simulation
+
+Objective: Simulate a virtual economy within a metaverse.
+
+Instructions:
+
+Background:
+Economies play a crucial role in virtual worlds and metaverse environments, affecting in-game currencies, assets, and player experiences. In this assignment, students will have the opportunity to design and simulate a virtual economy within their metaverse projects.
+
+Task:
+
+Virtual Economy Design:
+
+Instruct students to design a virtual economy for their metaverse environment.
+Encourage them to consider factors such as in-game currency, resource availability, and player-driven markets.
+Economic Models and Systems:
+
+Task students with implementing economic models and systems that govern the virtual economy.
+Require them to consider supply and demand dynamics, as well as factors like production and consumption rates.
+Marketplace Development:
+
+Challenge students to create an in-world marketplace or trading system where virtual goods and assets can be bought and sold.
+Instruct them to include features for setting prices, listing items, and conducting transactions.
+Price Fluctuations and Events:
+
+Encourage students to introduce price fluctuations and economic events that influence the virtual economy.
+Examples may include limited-time sales, resource shortages, or special in-game events that impact prices.
+Economic Analysis:
+
+Instruct students to conduct an analysis of the virtual economy, considering factors like inflation, market stability, and player engagement.
+Ask them to document the results of their analysis and any insights gained.
+Adjustments and Balancing:
+
+Challenge students to propose and implement adjustments or balance changes to the virtual economy based on their analysis.
+Encourage them to iterate on their designs to create a more engaging and balanced economic system.
+Documentation:
+
+Require students to provide comprehensive documentation that explains the design, implementation, and analysis of the virtual economy.
+Evaluation Criteria:
+The Virtual Economy Simulation assignment will be evaluated based on the following criteria:
+
+Economy Design: The creativity and complexity of the virtual economy design.
+Economic Models: The accuracy and realism of the economic models and systems implemented.
+Marketplace Functionality: The functionality and user-friendliness of the in-world marketplace.
+Dynamic Events: The effectiveness of introducing price fluctuations and economic events.
+Economic Analysis: The depth and insights gained from the economic analysis.
+Adjustments and Balance: The effectiveness of proposed adjustments to enhance the virtual economy.
+Documentation: The quality and completeness of the documentation provided.

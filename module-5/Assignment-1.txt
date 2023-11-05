@@ -1,0 +1,39 @@
+Virtual World Chat System
+
+Objective: Create a chat system for social interactions within a virtual world.
+
+Instructions:
+
+Background:
+Effective communication is vital within virtual worlds, as it enhances the sense of presence and community. In this assignment, students will develop a real-time chat system that enables avatars within a virtual world to interact with each other. The chat system should facilitate text communication, private messaging, and proximity-based chat, enhancing the social experience within the virtual environment.
+
+Task:
+
+Design and Development:
+
+Assign students or groups the task of designing and implementing a virtual world chat system. They can choose a virtual environment created in Unity, Unreal Engine, or a similar platform.
+Chat System Features:
+
+Instruct students to implement the following features within their chat system:
+Text Chat: Enable avatars to send text messages that are visible to nearby avatars.
+Private Messaging: Implement a private messaging system that allows avatars to send messages to specific recipients.
+Proximity-Based Chat: Create a proximity-based chat mechanism where avatars can only hear and see chat messages from nearby avatars. Avatars should experience the immersive effect of sound fading with distance.
+User Interface: Design a user-friendly chat interface that integrates seamlessly into the virtual world environment. Avatars should be able to open and close the chat window as needed.
+Notifications: Implement notification features that alert avatars when they receive new messages or private chat requests.
+Documentation:
+
+Require students to create clear and comprehensive documentation for their chat system. This documentation should include:
+System architecture and design.
+Instructions for users (avatars) on how to use the chat system.
+A brief explanation of the implementation process and any key challenges faced.
+Testing and Feedback:
+
+Encourage students to test their chat system within the virtual world environment. They should use avatars to simulate interactions and gather feedback on usability and functionality.
+Students can also seek feedback from their peers or conduct usability testing sessions with volunteers who navigate the virtual world.
+Evaluation Criteria:
+The Virtual World Chat System assignment will be evaluated based on the following criteria:
+
+Functionality: The functionality and usability of the chat system, including text chat, private messaging, and proximity-based chat.
+User Interface: The design and user-friendliness of the chat interface.
+Documentation: The completeness and clarity of the documentation provided.
+Testing and Feedback: The extent to which testing and feedback have been used to refine the chat system.

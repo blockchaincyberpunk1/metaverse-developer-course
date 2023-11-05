@@ -1,0 +1,39 @@
+Virtual World Collaboration
+
+Objective: Enable collaborative experiences within a virtual world.
+
+Instructions:
+
+Background:
+Collaboration is a key aspect of the metaverse, allowing users to work, learn, and create together in immersive environments. In this assignment, students will focus on implementing collaborative features within their chosen metaverse platform. The assignment challenges students to create shared tools and experiences that enhance collaboration in a virtual world.
+
+Task:
+
+Collaborative Feature Selection:
+
+Assign students or groups the task of selecting a collaborative feature to implement within a virtual world. Examples of collaborative features include shared whiteboards, 3D modeling tools, document sharing, or collaborative games.
+Encourage students to choose a feature that aligns with educational or professional contexts, such as collaborative brainstorming or virtual design sessions.
+Implementation:
+
+Instruct students to implement the selected collaborative feature within their chosen metaverse platform.
+Emphasize real-time updates and synchronization to ensure that multiple avatars can interact with and benefit from the collaborative tool simultaneously.
+Usability and User Experience:
+
+Challenge students to consider usability and user experience factors when designing their collaborative feature. Avatars should find it intuitive to use and understand.
+Encourage students to gather feedback from potential users (classmates or peers) to refine the feature's usability.
+Educational or Professional Application:
+
+Ask students to reflect on the potential educational or professional applications of their collaborative feature. How can it benefit learners, teams, or professionals in a virtual world setting?
+Have students provide a brief written explanation of the scenarios in which their collaborative feature could be used.
+Documentation:
+
+Require students to document their collaborative feature implementation, including technical details, synchronization methods, and any challenges encountered.
+Include screenshots or videos to demonstrate the collaborative feature in action.
+Evaluation Criteria:
+The Virtual World Collaboration assignment will be evaluated based on the following criteria:
+
+Collaborative Feature Selection: The appropriateness and relevance of the selected collaborative feature.
+Implementation: The quality and functionality of the implemented collaborative tool.
+Usability and User Experience: The effectiveness of the collaborative feature's usability and user experience.
+Educational or Professional Application: The thoughtful consideration of how the collaborative feature can be applied in educational or professional contexts.
+Documentation: The completeness and clarity of the documentation provided.

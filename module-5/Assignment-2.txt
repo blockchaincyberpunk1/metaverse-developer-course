@@ -1,0 +1,40 @@
+Avatar Emotes and Gestures
+
+Objective: Develop avatar emotes and gestures for non-verbal social interactions.
+
+Instructions:
+
+Background:
+Non-verbal communication is a crucial aspect of social interactions within virtual worlds. Avatars expressing emotions and actions through emotes and gestures enhance the sense of presence and connection among users. In this assignment, students will learn how to create a library of emotes and gestures for avatars in a virtual environment. They will also implement a user interface for selecting and triggering these emotes, allowing avatars to express themselves in a multiplayer setting.
+
+Task:
+
+Emote and Gesture Creation:
+
+Assign students or groups the task of designing and creating a library of emotes and gestures for avatars within a virtual world. Emotes and gestures can include actions like waving, dancing, clapping, or any other expressive animations.
+Encourage students to consider the diversity of emotions and actions that avatars can express through these animations.
+User Interface Implementation:
+
+Instruct students to develop a user interface (UI) that allows users (avatars) to select and trigger emotes and gestures. The UI should be integrated into the virtual world environment and be easily accessible to avatars.
+The UI should include an emote selection menu with a variety of emotes and gestures to choose from.
+Animation Synchronization:
+
+Challenge students to implement synchronization mechanisms that ensure emote animations are consistent and simultaneous across multiple avatars in a multiplayer setting.
+Avatars within the same proximity should be able to see each other's emotes and gestures synchronized in real-time.
+Documentation:
+
+Require students to create documentation that explains the process of emote and gesture creation, including any software or tools used.
+Document the steps for integrating the UI into the virtual environment and ensuring synchronization.
+Include instructions for users (avatars) on how to use the emotes and gestures.
+Testing and Feedback:
+
+Encourage students to test the emote and gesture system within the virtual environment, especially in multiplayer scenarios.
+Gather feedback from users (avatars) to evaluate the effectiveness of the emotes and gestures in enhancing social interactions.
+Evaluation Criteria:
+The Avatar Emotes and Gestures assignment will be evaluated based on the following criteria:
+
+Emote and Gesture Library: The variety and quality of emotes and gestures created for avatars.
+User Interface: The design and functionality of the emote selection UI.
+Synchronization: The effectiveness of synchronization mechanisms in multiplayer settings.
+Documentation: The completeness and clarity of the documentation provided.
+Testing and Feedback: The extent to which testing and feedback have been used to refine the emotes and gestures system.

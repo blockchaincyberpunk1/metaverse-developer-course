@@ -1,0 +1,49 @@
+Game Engine Basics (Unity or Unreal Engine)
+
+Objective: Familiarize students with a chosen game development platform.
+
+Instructions:
+
+Background:
+To become proficient metaverse developers, students need to be comfortable with the tools and workflows of a game engine. This assignment focuses on introducing students to one of the most commonly used game engines, either Unity or Unreal Engine.
+
+Task:
+
+Choosing a Game Engine: Depending on your course's emphasis or the available resources, select either Unity or Unreal Engine as the primary game development platform for this assignment.
+
+Setting Up the Game Engine:
+
+Unity: Instruct students to download and install the Unity development environment if they haven't already. Provide them with resources or tutorials on how to set up a new Unity project.
+
+Unreal Engine: For Unreal Engine, guide students through downloading and installing the engine. Explain the basics of the Epic Games Launcher and how to create a new project in Unreal Engine.
+
+Interface and Tools Exploration:
+
+Unity: Provide students with a guided tour of the Unity interface, including the Scene view, Hierarchy, Inspector, and Project windows. Introduce them to basic tools for manipulating objects and assets.
+
+Unreal Engine: Familiarize students with the Unreal Engine interface, including the main viewport, Outliner, Details panel, and Content Browser. Introduce them to basic manipulation and asset management tools.
+
+Scripting Basics:
+
+Unity: If Unity is chosen, introduce students to C# scripting in Unity. Provide them with simple scripting exercises or tutorials to create basic interactions in their scenes.
+
+Unreal Engine: For Unreal Engine, introduce students to Blueprints, Unreal Engine's visual scripting system. Guide them through creating simple Blueprints to add functionality to objects in their scenes.
+
+Creating a Simple Interactive Scene or Prototype:
+
+Instruct students to apply what they've learned by creating a simple interactive scene or prototype within the chosen game engine. This can be a basic game level, an interactive 3D environment, or a small simulation.
+Documentation and Reflection:
+
+Ask students to document their process, including any challenges they encountered and how they overcame them.
+Submission: Students should submit their project files and documentation electronically through the course's online platform.
+
+Evaluation Criteria:
+Your Game Engine Basics assignment will be evaluated based on the following criteria:
+
+Engine Familiarity: The degree to which students become familiar with the chosen game engine's interface and tools.
+
+Scripting Proficiency: The ability to apply scripting or visual scripting concepts for basic interactions.
+
+Interactive Scene/Prototype: The quality and creativity of the interactive scene or prototype created.
+
+Documentation: The completeness and clarity of the documentation, including challenges and solutions.    

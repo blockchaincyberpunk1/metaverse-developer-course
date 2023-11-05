@@ -1,0 +1,58 @@
+In-Game Marketplace
+
+Objective: Develop an in-game marketplace for trading virtual goods.
+
+Instructions:
+
+Background:
+In a metaverse environment, users often seek opportunities to trade, buy, and sell virtual assets, including NFTs and other digital collectibles. In this assignment, students will create an in-game marketplace within their metaverse project, providing a platform for users to engage in virtual commerce.
+
+Task:
+
+Platform and Environment Selection:
+
+Instruct students to use their chosen development platform (e.g., Unity, Unreal Engine) for building the in-game marketplace.
+Ensure that the marketplace design aligns with the overall theme and style of their virtual environment.
+Marketplace Design:
+
+Challenge students to design the user interface and layout of the in-game marketplace.
+Encourage them to consider user experience (UX) principles for easy navigation and efficient trading.
+Listing Creation:
+
+Task students with implementing features for users to create listings for virtual goods they wish to sell.
+Include options for specifying item details, images, pricing, and listing duration.
+Search and Discovery:
+
+Instruct students to develop search and discovery functionalities that allow users to find virtual goods.
+Implement filters, sorting options, and search by keywords or categories.
+Negotiation and Transactions:
+
+Challenge students to create a system for price negotiation between buyers and sellers.
+Ensure secure and transparent transactions, including escrow mechanisms if necessary.
+Inventory Management:
+
+Encourage students to design an inventory management system that tracks users' virtual assets, both listed for sale and owned.
+Include options for users to easily view, transfer, or modify listings.
+NFT Integration (Optional):
+
+If students are interested and capable, encourage them to incorporate NFT support within the marketplace.
+Enable the trading of NFTs and ensure compatibility with blockchain-based ownership.
+Testing and User Feedback:
+
+Require students to conduct thorough testing of the in-game marketplace.
+Encourage them to gather user feedback to enhance the marketplace's functionality and usability.
+Documentation:
+
+Ask students to document the design and implementation of the in-game marketplace.
+Include explanations of listing creation, search features, negotiation processes, and transaction management.
+Evaluation Criteria:
+The In-Game Marketplace assignment will be evaluated based on the following criteria:
+
+Marketplace Design: The user interface and layout of the in-game marketplace.
+Listing Creation: The ease and completeness of listing creation features.
+Search and Discovery: The effectiveness of search and discovery functionalities.
+Negotiation and Transactions: The fairness and security of transaction processes.
+Inventory Management: The efficiency and clarity of inventory management tools.
+NFT Integration (if applicable): The successful integration of NFT trading, if implemented.
+Testing and User Feedback: The incorporation of user feedback for improvements.
+Documentation: The completeness and clarity of the provided documentation.

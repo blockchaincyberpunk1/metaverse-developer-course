@@ -1,0 +1,55 @@
+ Interactive Game Prototype (Unreal Engine)
+
+Objective: Build a simple game prototype using Unreal Engine.
+
+Instructions:
+
+Background:
+Creating interactive game prototypes is an important aspect of metaverse development. In this assignment, students using Unreal Engine will build a small game prototype. This task is designed to help them apply their knowledge of Unreal Engine's capabilities, including scripting with Blueprints.
+
+Task:
+
+Unreal Engine Setup:
+
+Instruct students to open Unreal Engine and create a new project.
+Encourage them to select the appropriate project template or settings for the type of game prototype they plan to create.
+Game Concept Selection:
+
+Ask students to choose a concept for their game prototype. It could be a platformer, puzzle game, or exploration-based experience.
+The chosen concept should involve multiple interactive elements to showcase their Unreal Engine skills.
+Blueprint Scripting:
+
+Guide students to use Unreal Engine's Blueprints to script the necessary game mechanics.
+Provide a list of mechanics or interactions they should include, such as character movement, object interactions, basic AI behavior, or simple puzzles.
+Encourage them to apply event-based scripting to create responsive and interactive gameplay.
+Level Design:
+
+Instruct students to design a game level or environment that suits their chosen game concept.
+Emphasize the importance of level layout, aesthetics, and usability in creating an engaging player experience.
+Testing and Iteration:
+
+Encourage students to thoroughly playtest their game prototype to identify and address any bugs, gameplay issues, or areas for improvement.
+Documentation:
+
+Require students to create documentation that includes:
+A brief description of their game concept.
+An overview of the implemented mechanics and interactions.
+Details on how Blueprints were used to achieve the desired functionality.
+Any challenges encountered during development and how they were resolved.
+Screenshots or videos showcasing their game prototype.
+Presentation:
+
+Students will present their game prototypes to the class, demonstrating the gameplay and explaining their design and scripting choices.
+Submission:
+
+Students should submit their Unreal Engine project files, along with the documentation, through the course's online platform.
+Evaluation Criteria:
+The Interactive Game Prototype assignment in Unreal Engine will be evaluated based on the following criteria:
+
+Game Concept and Design: The creativity and effectiveness of the chosen game concept and level design.
+
+Blueprint Scripting: The quality and functionality of the implemented mechanics and interactions using Blueprints.
+
+Documentation: The completeness and clarity of the documentation, including challenges and solutions.
+
+Presentation: The ability to effectively present and explain their game prototype.

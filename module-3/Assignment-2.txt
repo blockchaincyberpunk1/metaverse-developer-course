@@ -1,0 +1,53 @@
+AR Interactive Overlay (ARKit or ARCore)
+
+Objective: Build an interactive AR overlay using ARKit (iOS) or ARCore (Android).
+
+Instructions:
+
+Background:
+Augmented Reality (AR) is a key component of the metaverse, allowing digital content to seamlessly blend with the real world. This assignment focuses on building an interactive AR overlay using either ARKit for iOS or ARCore for Android, two leading AR development frameworks.
+
+Task:
+
+Framework Selection:
+
+Depending on their device and preference, students can choose either ARKit (iOS) or ARCore (Android) for this assignment.
+Ensure that students have access to compatible devices for testing their AR applications.
+AR Interactive Overlay Development:
+
+Instruct students to create an AR application that overlays digital content onto the real world using their chosen framework.
+Specify an interactive element or experience to be developed within the AR environment. Examples include:
+An informative overlay: Students can design an AR application that provides real-time information about objects or locations in the user's view.
+A simple interactive game: Alternatively, students can develop an AR game that users can play within the real world, using their device's camera and sensors.
+Encourage students to consider user interface (UI) design and user interactions in AR space. This includes elements like buttons, 3D models, and animations.
+User Experience (UX) Considerations:
+
+Emphasize the importance of creating a seamless and user-friendly AR experience.
+Guide students in optimizing the AR application for device performance and stability.
+Encourage them to think about how the AR elements will interact with the real world and how users will navigate the experience.
+Testing and Documentation:
+
+Students should thoroughly test their AR applications on compatible devices to ensure functionality.
+Instruct them to document their development process, challenges faced, and lessons learned.
+Have students include screenshots or videos to demonstrate the AR overlay in action.
+Presentation:
+
+Each student will present their AR interactive overlay to the class, explaining the concept, design decisions, and user interactions.
+Discussion:
+
+After each presentation, initiate a class discussion where students can provide feedback and ask questions about their peers' AR applications.
+Submission:
+
+Students should submit their AR interactive overlay project files and documentation through the course's online platform.
+Evaluation Criteria:
+The AR Interactive Overlay assignment will be evaluated based on the following criteria:
+
+Functionality: The functionality and effectiveness of the AR interactive overlay in delivering the intended experience.
+
+User Interface (UI) Design: The quality and intuitiveness of the user interface in AR space.
+
+Optimization: How well the AR application is optimized for device performance and stability.
+
+Documentation: The completeness and clarity of the development documentation.
+
+Presentation: The quality of the presentation and the ability to effectively convey the creative and technical aspects of the AR overlay.

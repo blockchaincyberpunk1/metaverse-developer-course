@@ -1,0 +1,47 @@
+Augmented Reality (AR) Prototyping
+
+Objective: Explore AR technology and its potential in the metaverse.
+
+Instructions:
+
+Background:
+As metaverse developers, it's important to have a comprehensive understanding of immersive technologies beyond virtual reality. Augmented Reality (AR) plays a significant role in expanding the metaverse by blending digital content with the real world. This assignment introduces students to AR development and encourages them to explore its potential within the metaverse context.
+
+Task:
+
+Access to AR Development Tools: Provide students with access to AR development tools or frameworks like ARKit (for iOS), ARCore (for Android), or WebAR (for web-based AR experiences). Ensure they have the necessary software installed on their devices.
+
+AR Prototype Concept: Instruct students to brainstorm and propose a concept for a basic AR prototype or application. They should consider metaverse-related use cases, such as location-based AR experiences, interactive overlays, or information augmentation.
+
+Development: Task students with developing the proposed AR prototype using the provided AR development tools or frameworks. They should focus on the following aspects:
+
+Real-World Interaction: Encourage them to create interactions that enhance the user's real-world environment. This could involve placing virtual objects in the physical space or overlaying contextual information.
+Usability: Ensure that the AR prototype is user-friendly and intuitive.
+Documentation: Require students to document their AR development process, challenges encountered, and lessons learned throughout the project. This documentation can take the form of a development journal, a blog, or a series of video logs. Students should include:
+
+Initial Concept: A description of the chosen AR prototype concept and its relevance to the metaverse.
+Development Steps: Detailed steps, code snippets, and assets used in creating the AR prototype.
+Challenges: Reflection on challenges faced during development and how they were addressed.
+Lessons Learned: Insights gained from the project and improvements for future AR development.
+Testing and Demonstration: Encourage students to thoroughly test their AR prototype to ensure it functions as intended. They should also prepare a short presentation to showcase their AR prototypes to the class. During the presentation, students should highlight key features and use cases.
+
+Peer Review: After completing their AR prototypes and presentations, students should participate in peer review sessions. They can share their AR projects with classmates and provide constructive feedback to one another.
+
+Reflection: Instruct students to reflect on their overall experience in developing an AR prototype and its potential within the metaverse context. What did they learn, and how might AR be integrated into the broader metaverse ecosystem?
+
+Submission: Students should submit documentation of their AR development project electronically through the course's online platform by the specified due date.
+
+Evaluation Criteria:
+Your AR Prototyping assignment will be evaluated based on the following criteria:
+
+Concept: The creativity and relevance of the chosen AR prototype concept, especially in the context of the metaverse.
+
+Development: The successful implementation of the AR prototype, including real-world interactions and usability.
+
+Documentation Quality: The quality and completeness of the development documentation, including clear explanations and reflections.
+
+Testing and Demonstration: The thoroughness of testing and the effectiveness of the presentation in showcasing the AR prototype.
+
+Peer Review Participation: Active and constructive participation in peer feedback sessions.
+
+Reflection: The depth of reflection on the practical experience gained and the potential of AR in the metaverse.

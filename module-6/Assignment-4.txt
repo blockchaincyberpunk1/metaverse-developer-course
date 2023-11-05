@@ -1,0 +1,47 @@
+Virtual Art Gallery or Museum
+
+Objective: Create a virtual art gallery or museum experience.
+
+Instructions:
+
+Background:
+Art galleries and museums have been an integral part of human culture and history. In this assignment, students will have the opportunity to blend the physical and digital worlds by creating a virtual art gallery or museum. They will curate and display digital artworks or historical artifacts within this virtual space, providing an immersive and educational experience.
+
+Task:
+
+Concept and Theme:
+
+Instruct students to conceptualize the theme and purpose of their virtual art gallery or museum. They should consider the type of artworks or artifacts they plan to showcase and the educational or entertainment value of their space.
+Development Platform:
+
+Allow students to choose their preferred development platform for creating the virtual space. They can use Unity, Unreal Engine, or any other suitable platform.
+Artwork/Artifact Selection:
+
+Task students with curating a collection of digital artworks or historical artifacts for their virtual gallery or museum.
+Encourage them to choose pieces that align with the theme they've defined.
+Virtual Space Design:
+
+Instruct students to design the layout and aesthetics of their virtual gallery or museum.
+Encourage creativity in architectural design, lighting, and overall atmosphere.
+Interactive Elements:
+
+Challenge students to add interactive elements to enhance the educational experience:
+Information Pop-ups: Include pop-up windows with detailed information about each artwork or artifact.
+Audio Guides: Implement an audio guide system that provides additional context or narration as users explore the virtual space.
+User Interactions: Consider allowing users to interact with certain items, such as zooming in on paintings or rotating 3D artifacts.
+User Navigation:
+
+Ensure that students implement user-friendly navigation controls within the virtual space. Users should be able to move around, zoom in on artworks, and access information seamlessly.
+Documentation:
+
+Require students to document their entire development process, including concept, asset selection, design choices, and the integration of interactive elements.
+Encourage them to include screenshots or videos that showcase their virtual gallery or museum.
+Evaluation Criteria:
+The Virtual Art Gallery or Museum assignment will be evaluated based on the following criteria:
+
+Concept and Theme: The clarity and relevance of the chosen theme.
+Artwork/Artifact Selection: The quality and diversity of the selected artworks or artifacts.
+Virtual Space Design: The aesthetics, layout, and overall design of the virtual gallery or museum.
+Interactive Elements: The effectiveness and user-friendliness of implemented interactive elements.
+User Navigation: The ease of navigation and user experience within the virtual space.
+Documentation: The completeness and clarity of the provided documentation.

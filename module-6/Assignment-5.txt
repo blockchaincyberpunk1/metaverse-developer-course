@@ -1,0 +1,53 @@
+Themed Escape Room
+
+Objective: Design and build a themed escape room within a virtual environment.
+
+Instructions:
+
+Background:
+Escape rooms are popular real-world entertainment experiences where participants solve puzzles and riddles to "escape" from a themed room within a time limit. In this assignment, students will have the opportunity to translate this concept into a virtual environment by designing and building a themed escape room.
+
+Task:
+
+Theme Selection:
+
+Instruct students to choose a specific theme for their escape room (e.g., ancient temple, haunted house, space station).
+Emphasize the importance of selecting a theme that will create a captivating and immersive experience.
+Puzzle and Challenge Design:
+
+Challenge students to design a series of puzzles, challenges, and clues that are coherent with the chosen theme.
+Encourage creativity in puzzle design, considering logic, observation, and teamwork as key elements.
+Virtual Environment:
+
+Task students with designing and building the virtual environment that represents the escape room.
+Encourage them to use the chosen development platform (e.g., Unity, Unreal Engine) to create detailed and immersive surroundings.
+Implementation of Puzzles:
+
+Instruct students to implement the puzzles and challenges within the virtual escape room.
+Encourage them to use scripting and interactivity to ensure that puzzles respond to user interactions.
+Clue System:
+
+Challenge students to create a clue system that helps users progress through the escape room.
+Consider incorporating both visual and auditory clues for a dynamic experience.
+Time Limit and Completion:
+
+Define a reasonable time limit for completing the escape room.
+Ensure that students implement a mechanism to signal the successful completion of the room.
+User Experience Testing:
+
+Encourage students to conduct user experience testing with peers or volunteers to gather feedback on the escape room's difficulty, pacing, and overall fun factor.
+Documentation:
+
+Require students to document the entire development process, including theme selection, puzzle design, virtual environment creation, and user testing.
+Encourage them to include screenshots or videos that showcase the escape room.
+Evaluation Criteria:
+The Themed Escape Room assignment will be evaluated based on the following criteria:
+
+Theme Selection: The creativity and relevance of the chosen theme.
+Puzzle and Challenge Design: The quality and variety of puzzles and challenges.
+Virtual Environment: The aesthetics and level of detail in the virtual escape room.
+Implementation of Puzzles: The functionality and interactivity of puzzles within the virtual environment.
+Clue System: The effectiveness and intuitiveness of the clue system.
+Time Limit and Completion: The suitability of the time limit and the clarity of completion signals.
+User Experience Testing: The incorporation of user feedback for improvements.
+Documentation: The completeness and clarity of the provided documentation.

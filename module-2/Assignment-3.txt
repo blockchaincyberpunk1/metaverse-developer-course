@@ -1,0 +1,52 @@
+Interactive 3D Environment (Unity)
+
+Objective: Develop hands-on experience in creating interactive 3D environments.
+
+Instructions:
+
+Background:
+Creating interactive 3D environments is a core skill for metaverse developers. In this assignment, students will work with Unity to design and build a basic interactive 3D environment. This assignment encourages creativity and practical application of game development concepts.
+
+Task:
+
+Unity Environment Setup:
+
+Instruct students to open Unity and create a new 3D project.
+Encourage them to choose a project name and location, ensuring that they understand the Unity interface from the previous assignment.
+Theme Selection:
+
+Ask students to select a theme for their interactive 3D environment. The theme can be anything from a fantasy forest to a futuristic city, but it should allow for creative design and user interactions.
+Design and Modeling:
+
+Guide students in designing the layout and visual elements of their environment. Encourage them to think about the placement of 3D models, textures, and lighting to achieve the desired atmosphere.
+Interactivity Implementation:
+
+Instruct students to add interactivity to their environment using C# scripting in Unity. This can include interactive objects, triggers, or basic gameplay mechanics.
+Encourage them to consider user interactions, such as picking up objects, opening doors, or triggering animations.
+Testing and Iteration:
+
+Emphasize the importance of testing their interactive 3D environment. Students should playtest their creation to identify and fix any issues or improvements needed.
+Documentation:
+
+Require students to create documentation that includes:
+A brief description of their chosen theme.
+A summary of the design and modeling choices they made.
+An explanation of the interactivity added to the environment.
+Any challenges faced during development and how they were resolved.
+Screenshots or a video showcasing the interactive 3D environment.
+Presentation:
+
+Students will present their interactive 3D environments to the class, demonstrating the interactivity and explaining their design choices.
+Submission:
+
+Students should submit their Unity project files, including the documentation, through the course's online platform.
+Evaluation Criteria:
+The Interactive 3D Environment assignment will be evaluated based on the following criteria:
+
+Creativity and Theme Execution: How well the chosen theme is executed and the creativity in design.
+
+Interactivity: The quality and functionality of the interactive elements added.
+
+Documentation: The completeness and clarity of the documentation, including challenges and solutions.
+
+Presentation: The ability to effectively present and explain their interactive 3D environment.
